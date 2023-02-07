@@ -12,13 +12,13 @@ const initialState: EventsInitialState = {
   data: [
     {
       id: 1,
-      name: 'Dinning Chair',
+      name: 'Event 1',
       startTime: '2023-02-05T12:00',
       endTime: '2023-02-05T13:00',
     },
     {
       id: 2,
-      name: 'Dinning Table',
+      name: 'Event 2',
       startTime: '2023-02-03T13:00',
       endTime: '2023-02-03T17:00',
     },
